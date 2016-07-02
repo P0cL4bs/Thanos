@@ -1,7 +1,7 @@
 # Thanos
 ## What is ?
 
-Thanos is a tool made for scan an range of IP's and get the banners of the running services.
+Thanos is a tool made for scan a range of IP's and get the banners of the running services.
 The main function is do banner grabber, but you also can use this for exploit vulnerabilities,
 find proxy servers, or simply check for open ports.
 
